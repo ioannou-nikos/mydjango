@@ -1,0 +1,2 @@
+# mydjango
+Sample django projects
